@@ -1,0 +1,6 @@
+exifread
+transformers
+torch
+torchvision
+Pillow
+matplotlib
